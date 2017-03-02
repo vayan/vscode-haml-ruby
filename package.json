@@ -1,11 +1,16 @@
 {
   "name": "haml",
   "displayName": "Ruby Haml",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Extension to provices syntax highlighting for Ruby Haml files in Visual Studio Code ",
   "publisher": "vayan",
   "engines": {
     "vscode": "*"
+  },
+  "icon": "logo.svg",
+  "galleryBanner": {
+    "color": "#333333",
+    "theme": "dark"
   },
   "categories": [
     "Languages"
@@ -41,12 +46,10 @@
   },
   "keywords": [
     "haml",
-    "lang",
     "language",
     "rails",
     "ruby",
-    "syntax",
-    "vscode"
+    "syntax"
   ],
   "author": "Yann Vaillant <dev@va.yan.pm>",
   "license": "MIT",
