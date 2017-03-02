@@ -1,8 +1,8 @@
 {
   "name": "haml",
   "displayName": "Ruby Haml",
-  "version": "1.0.0",
-  "description": "Extension to provices syntax highlighting for Ruby Haml files in Visual Studio Code ",
+  "version": "1.0.1",
+  "description": "Extension to provides syntax highlighting for Ruby Haml files in Visual Studio Code",
   "publisher": "vayan",
   "engines": {
     "vscode": "*"
