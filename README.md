@@ -1,6 +1,6 @@
 # vscode-haml-ruby
 
-![haml](https://github.com/vayan/vscode-haml-ruby/blob/master/logo.svg)
+![haml](https://vayan.github.io/vscode-haml-ruby/logo.svg)
 
 Extension to provices syntax highlighting for Ruby Haml files in Visual Studio Code
 
